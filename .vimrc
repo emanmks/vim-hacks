@@ -10,3 +10,6 @@ set incsearch
 set hlsearch
 
 syntax on
+
+" enable mouse
+set mouse=a
