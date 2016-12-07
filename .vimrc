@@ -1,6 +1,8 @@
 set nocompatible			"be iMproved, required
 filetype off				"required
 
+set number				"show line number
+
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
